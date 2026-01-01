@@ -1,55 +1,45 @@
 🚖 Uber Ride Analytics Dashboard (Power BI)
 
-🔍 Project Overview
 
+🔍 Project Overview : 
 This project presents a comprehensive Uber Ride Analytics Dashboard built entirely using Power BI, focusing on ride demand trends, revenue performance, cancellations, operational efficiency, and customer experience.
 The dashboard converts raw Uber ride data into interactive visuals and actionable insights, enabling business stakeholders to monitor performance, identify bottlenecks, and optimize decision-making.
+
 
 🧠 Executive Summary & Key KPIs
 ![Uber Dashboard - Executive Summary](dashboard_screenshots/uber0.png)
 
-Key KPIs
+## Executive Summary & Key KPIs
 
-Total Revenue: $51.85M
+# Key KPIs
+- Total Revenue: $51.85M
+- Total Rides: 93K
+- Total Users: 149K
+- Average Ride Distance: 24.64 km
+- Average Trip Duration: 29.15 mins
+- On-Time Pickups: 42K
+- Average Driver Arrival Time: 8.46 mins
+- Average Customer Rating: 4.4
+- Average Driver Rating: 4.2
 
-Total Rides: 93K
+# Executive Insights
+- Uber generated $51.85M revenue from 93K rides, indicating strong platform usage
+- Evening hours (5 PM – 8 PM) contribute the highest revenue
+- Auto and Go Mini are the top-performing vehicle categories
+- High customer satisfaction with 44% of rides rated above 4.5
+- Operational performance is stable with scope to reduce peak-time arrival delays
 
-Total Users: 149K
-
-Average Ride Distance: 24.64 km
-
-Average Trip Duration: 29.15 mins
-
-On-Time Pickups: 42K
-
-Average Driver Arrival Time: 8.46 mins
-
-Average Customer Rating: 4.4
-
-Average Driver Rating: 4.2
-
-Executive Insights
-
-Uber generated $51.85M revenue from 93K rides, indicating strong platform usage
-
-Evening hours (5 PM – 8 PM) contribute the highest revenue
-
-Auto and Go Mini are the top-performing vehicle categories
-
-High customer satisfaction with 44% rides rated above 4.5
-
-Operational performance is stable with scope to reduce peak-time arrival delays
 
 📈 Booking & Demand Analysis
+
+
+# Booking & Demand Analysis
 Insights
+- Ride bookings remain consistent across the year, with peaks in March, July, and October
+- Weekday rides dominate, indicating strong office-hour demand
+- Short-distance trips (0–10 km) account for the largest share of total bookings
+- Sunday generates the highest revenue among all days
 
-Ride bookings remain consistent across the year, with peaks in March, July, and October
-
-Weekday rides dominate, showing strong office-hour demand
-
-Short-distance trips (0–10 km) account for the largest share of bookings
-
-Sunday generates the highest revenue among all days
 
 💰 Revenue Analysis
 Insights
