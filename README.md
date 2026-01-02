@@ -102,7 +102,6 @@ The dashboard converts raw ride-level data into **actionable business insights**
   - Power Query for data cleaning and transformation  
   - DAX for KPI calculations and measures  
   - Interactive slicers and drill-down dashboards
-  -  
 - **Data Visualization**
   - KPI Cards, Bar Charts, Line Charts, Donut Charts, Maps, Treemaps  
 
