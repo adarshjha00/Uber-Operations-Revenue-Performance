@@ -1,4 +1,4 @@
-# 🚖 Uber Ride Analytics Dashboard (Power BI)
+# 🚖  Uber Operations & Revenue Insights (Power BI)
 
 ## 🧩 Business Problem Statement
 Uber wants to gain a comprehensive understanding of ride demand, booking trends, cancellations, revenue performance, operational efficiency, and customer experience across its platform. The goal of this project is to analyze historical ride-level data to identify peak demand hours, revenue drivers, cancellation patterns, and operational bottlenecks in order to support data-driven decision-making for ride-hailing services.
