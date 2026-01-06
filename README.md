@@ -1,10 +1,11 @@
 # 🚖 Uber Ride Analytics Dashboard (Power BI)
 
+## 🧩 Business Problem Statement
+Uber wants to gain a comprehensive understanding of ride demand, booking trends, cancellations, revenue performance, operational efficiency, and customer experience across its platform. The goal of this project is to analyze historical ride-level data to identify peak demand hours, revenue drivers, cancellation patterns, and operational bottlenecks in order to support data-driven decision-making for ride-hailing services.
 
-# 🔍 Project Overview
+## 🔍 Project Overview
+To analyze Uber ride data using Power BI, perform data cleaning and transformation with Power Query, calculate key KPIs using DAX, and build an interactive dashboard that delivers actionable insights on ride demand, revenue, cancellations, driver and customer performance, and operational efficiency.
 
-This project presents a **comprehensive ride analytics dashboard for Uber**, built using **Power BI**, focusing on ride demand, booking trends, cancellations, revenue performance, operational efficiency, and customer experience.
-The dashboard converts raw ride-level data into **actionable business insights** to support data-driven decision-making for mobility and ride-hailing platforms.
 
 
 # 🧠 Executive Summary & Key KPIs
